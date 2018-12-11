@@ -1,2 +1,3 @@
-hello
-debug.rs
+gitignore
+*.exe
+*.pdb
