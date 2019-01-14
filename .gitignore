@@ -1,3 +1,6 @@
-gitignore
+.gitignore
 *.exe
 *.pdb
+*.lock
+*.toml
+target
